@@ -44,18 +44,11 @@
 }
 .intro-P1{
     font-size: 15px;
+    padding-top: 10rem;
+    color: grey;
+    opacity: 60%;
     
 }
-.intro-P2{
-    font-size: 15px;
-    padding-top: 20px;
-}
-.intro-P3{
-    padding-top: 20px;
-    font-size: 15px;
-    margin-bottom: 300px;
-}
-
 .Flexintro{
     display: flex;
     flex-direction: row;
